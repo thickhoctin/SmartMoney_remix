@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SmartContractWallet.sol": "Wallet"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SmartContractWallet.sol": {
+			"keccak256": "0x63a688375daa1e28cbb515fc1bf6667219f37baa49dd96f88a849bac916a3bc2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cb58ba962f7ea1dae7c3ef635f50bc1098d269c6e9b56ad38a40f5005a689baa",
+				"dweb:/ipfs/QmX3AnUebxYFJz9DEFtWLPzfobCN9pcm6TwW1vWUbrJwo3"
+			]
+		}
+	},
+	"version": 1
+}
